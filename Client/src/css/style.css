@@ -1,0 +1,9 @@
+.App .form {
+  display: flex;
+  flex-direction: column; }
+  .App .form label {
+    width: 10em;
+    margin-top: 1em; }
+  .App .form button {
+    width: 5em;
+    margin-top: 2em; }
